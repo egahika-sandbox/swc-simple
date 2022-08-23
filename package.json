@@ -1,0 +1,13 @@
+{
+  "name": "swc-simple",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "run": "swc ./src -d dist"
+  },
+  "devDependencies": {
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.2.242"
+  },
+  "private": true
+}
